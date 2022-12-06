@@ -132,6 +132,7 @@ Secma
 Shelby
 Simca
 Skoda
+skoda
 Smart
 Ssang
 Yong
