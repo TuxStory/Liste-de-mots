@@ -1,0 +1,240 @@
+accordéon à boutons
+accordéon à touches
+angklung
+atumpan
+algaïta
+bala
+bloc à deux tons
+bonang
+bongos
+bouzouki
+bugle
+berimbau
+batterie électronique
+batterie
+basson
+bol chantant tibétin
+basse accoustique
+banjo
+balalaïka
+bâton de pluie
+cajon
+cabassa
+carillon
+carillon d’orchestre
+caisse claire
+grosse caisse
+carillon tubulaire
+carillon éolien
+chalumeau
+celesta
+castagnettes
+chapeau chinois
+charango
+cheng
+chitarrone
+cithare
+cithare à cordes frappés
+cithare des appalaches
+clairon
+clarinette basse
+clarinette
+clavecin
+claves
+clavicorde
+clavier électronique
+clavinet
+chékéré
+clochette
+concertina
+congas
+conque
+contrebasse
+contrebasson
+cor anglais
+cor à main
+cor d’harmonie
+cor de basset
+cor des alpes
+cor de poste
+cornemuse d’ecosse
+cornemuse nortumberland
+cornet à bouquin
+cornet à pistons
+crécelle
+cromorne
+cuica
+curtal
+cymbales
+cymbale tibétaine
+cymbalum
+darbouka
+di
+didjeridu
+diple
+djembe
+duda
+dung chen
+dvojnice
+epinette
+erhu
+fifre
+flageolet
+flûte à 10 sous
+flûte à bec
+flûte à une clé
+flûte de pan
+flûte nasale
+flûte traversière
+flûte piccolo
+fouet
+flûte irlandaise
+gender
+ghatam ou ghara
+glockenspiel
+gong
+gong ageng
+grelots
+grelots de traîneau
+guimbarde
+guimbarde en bambou
+guitare acoustique 
+guitare basse
+guitare
+guitare classique
+guitare douze cordes
+guitare électrique
+guitare électrique à caisse creuse
+guitare de poche
+harmonica
+harmonium
+harpe
+harpe andine
+harpe celtique
+hautbois
+hautbois ancien
+handpan
+hichiriki
+auto harpe
+kalangu
+kalimba
+kamanche
+kantele
+kazoo
+kendang
+kéna
+khène
+kora
+koto
+kotsuzumi
+krar
+kugué
+launeddas
+luth
+mandoline
+manjira
+maracas
+marimba
+mbira
+mridangam
+muyu ou temple blocks
+naqqara
+nay
+ocarina
+odaïko
+orgue
+orgue électrique
+orgue électronique
+otomatone
+piano à queue
+piano meuble
+piano droit
+piano électrique
+piano électronique
+piano numérique 61 touches
+piano numérique 88 touches
+piano-forte
+pipa
+pungi
+pipeau
+qin
+rebab arabo-andalou
+rebec
+rhombe
+rkang-gling
+sahnaï
+santur persian
+sampler ou échantillonneur numérique
+saqueboute
+sarangi
+saùng-gauk
+saxhorn
+saxophone alto
+saxophone baryton
+saxophone soprano
+saxophone ténor
+serpent
+sékéré
+shakuhachi
+shamisen
+shofar
+sistre
+sitar
+sousaphone
+steel drum
+suona
+synthétiseur
+tabla
+tam-tam
+tambour de bois à fente
+tambour de chaman
+tambour sur cadre ou tambourin
+tambour-hochet
+tambourin
+tambour à languettes
+timbales
+timbales d’orchestre
+triangle
+thérémine
+trombone
+trombone à pistons
+trompe traversière
+trompette
+trompette naturelle
+trompette de poche
+trompette piccolo
+tuba
+tuba wagnérien
+ud ou oud
+ukulele
+valiha
+vibraphone
+vielle à roue
+vina
+viole de gambe
+violon
+violon alto
+violon hardanger
+violoncelle
+violoncelle éltrique
+vuvuzela
+woodblock
+xylophone
+yeguin
+yangqin
+zampogna
+zilli masa
+zurna
+zummara
+zukra
+les instruments à vent
+les instruments à cordes frappées
+les instruments à cordes frottées
+les instruments à cordes pincées
+les instruments à percussions
+batterie
+Électronique
+guitare
+piano
+violon
+violoncelle
