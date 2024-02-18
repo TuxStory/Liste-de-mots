@@ -1,0 +1,515 @@
+linux
+solaris
+novell
+bsd
+freebsd
+os
+kernel
+unix-like
+gnu
+operating system
+bell labs
+ibm
+posix
+xenix
+os x
+unix shell
+time-sharing
+c
+workstation
+mainframe
+macintosh
+aix
+apis
+single unix specification
+mips
+macs
+multiuser
+server
+microsoft
+multics
+sun microsystems
+dennis ritchie
+the open group
+unix philosophy
+unix system
+unix operating system
+multi-user
+porting
+windows server
+ubuntu
+software
+red hat linux
+trademark
+unix
+gnu linux
+windows
+mainframes
+hp ux
+rootkits
+storage
+darwin
+processor
+malware
+cyber
+groupware
+monolithic kernel
+austin group
+windows nt
+mac os
+iseries
+network
+mysql
+suse
+ftp
+oses
+openoffice
+os x.
+firmware
+servers
+rhel
+visual basic
+red hat
+zfs
+sun solaris
+j2ee
+x##
+computer multitasking
+berkeley software distribution
+foss
+ms-dos
+hardware
+dos
+ken thompson
+enterprise linux
+linux os
+postgresql
+distro
+pipeline
+windows xp
+vmware
+amiga
+itanium
+atari
+risc
+cobol
+hypervisor
+pcs
+cp/m
+internet
+open source
+santa cruz operation
+bash
+db2
+torvalds
+mac
+wordperfect
+sql server
+macos
+tru64
+relational database
+epoch
+openoffice.org
+gplv3
+filesystem
+blade server
+ubuntu linux
+netscape
+virtualisation
+x## server
+php
+opteron
+inter-process communication
+terminal
+file system
+irix
+sco
+windows vista
+psystar
+hypervisors
+linus
+shell
+z os
+middleware
+brian kernighan
+weblogic
+osx
+staroffice
+source code
+hhkb
+cpu
+server virtualization
+blade servers
+tcp ip
+oracle
+ssh
+cli
+vim
+apple
+programming
+linix
+python
+win
+virtual server
+jboss
+sql
+workstations
+hyper v
+compiler
+sgi
+cpus
+java
+openbsd
+hp-ux
+tcp
+text editor
+netware
+servers
+high-level programming language
+system
+delimiter
+xp
+virtualization
+powerpc
+gpl
+microkernel
+1969
+mouse
+multiprocessing
+telnet
+desktop
+computer
+sysadmin
+debian
+x86
+implementations
+semaphore
+architectures
+ported
+proprietary
+openvms
+microsystems
+client–server
+eunuch
+compatible
+philosophy
+processors
+functionality
+at&t corporation
+drm
+emulation
+daemon
+emacs
+android
+usenet
+multiprocessor
+ps2
+sparc
+xt
+bell system
+interface
+cisco
+emulator
+freeware
+32-bit
+university of california, berkeley
+compatibility
+microcontrollers
+xbox
+optimized
+browsers
+qualcomm
+multitasking
+netbsd
+sega
+snes
+systems
+arcade
+standalone
+desktops
+interfaces
+os/2
+64-bit
+apple inc.
+unix-based
+open-source
+16-bit
+unix filesystem
+linux-based
+vm
+gnome
+handhelds
+software portability
+algorithm
+text-based
+account
+gnu/linux
+login
+8-bit
+subsystem
+ieee
+microelectromechanical
+programmable
+2600
+spyware
+dreamcast
+x86-64
+windows-based
+at&t
+macintoshes
+plain text
+cybernetic
+shebang
+c programming language
+programmer
+cybernetics
+debug
+cyberintrusion
+programming tool
+intranet
+organon
+portability
+command-line interpreter
+rootkit
+supercomputer
+debugger
+bot
+program
+microprocessor
+code
+minicomputer
+rob pike
+microcomputer
+the unix programming environment
+cybersystem
+fortran
+computable
+assembler
+compute
+svr4
+antivirus
+motherboard
+parser
+computer networking
+computational
+multinetworked
+pseudocode
+cybernetwork
+multinetwork
+xen
+softmodem
+biocuration
+user space
+data terminal
+techie
+pessimize
+cyberpsychology
+metaprogramming
+cyberinteraction
+cyberphilosophy
+non-blocking i/o
+virtualize
+sysop
+screensaver
+biocomputing
+nonprogramming
+unix domain socket
+cyberterrorism
+incrementor
+uploader
+cybersociology
+downloader
+softlifting
+wardialer
+shared memory
+hackathon
+firefox
+message queue
+telecommuter
+cybertechnology
+netzine
+usb
+gui
+compaq
+api
+scsi
+photoshop
+efi
+oem
+ascii
+ireland
+quicktime
+malaysia
+pentium
+adobe
+canada
+powerpoint
+aol
+osi
+nintendo
+berkeley
+wysiwyg
+singapore
+rgb
+ajax
+roms
+lisa
+october
+thinkpad
+powerbook
+applets
+corel
+february
+pid
+gif
+philips
+lenny
+iis
+pascal
+filename
+apache
+nokia
+december
+exe
+dvr
+subroutines
+irc
+april
+prc
+australia
+bbc
+september
+january
+netherlands
+motorola
+glyph
+msi
+tivo
+swedish
+memex
+dell
+cablegami
+massachusetts institute of technology
+computerize
+refactorization
+cyberjargon
+cybersavvy
+optimizer
+anticomputer
+logon
+protocol
+extranet
+general electric
+computerism
+telecomputer
+hostmaster
+computerist
+precomputer
+uninstall
+multitask
+neurocomputer
+cyberdating
+cyberjunkie
+postscript
+computerbased
+computerology
+computerdom
+teleprogramming
+misclick
+metaprogram
+compy
+cybersuicide
+noncomputer
+nanocomputer
+puter
+computeritis
+ge-600 series
+bloatware
+counterprogramming
+computerologist
+computercide
+subprogram
+meatware
+computernik
+appender
+ambimoustrous
+teleprogrammed
+wabbit
+teleprocessing
+internet protocol suite
+http
+smtp
+soap
+ioctl
+rsx-11
+word play
+peter h. salus
+operate system
+security system
+peter g. neumann
+system analysis
+modularity
+os/400
+computing platform
+donald b. gillies
+research unix
+lightroom
+university of illinois at urbana–champaign
+obj
+dreamweaver
+vlc
+turbotax
+postfix
+rcb
+awk
+cdrom
+coroutine
+system v
+newline
+sequent computer systems
+computer science
+system engineer
+data centre
+aix operating system
+odf
+information technology
+unix system laboratories
+utility program
+computer system
+code monkey
+database management system
+command line interpreter
+computer architecture
+help desk
+p 2
+fedora
+computer aid design
+word processor
+mobile device
+background process
+personal digital assistant
+communication system
+reusability
+configuration section
+machine code
+expansion slot
+common open software environment
+machine language
+system theory
+e government
+download manager
+data process
+distribute compute
+chinese room
+content management system
+neural network
+computer program
+in observatory
+filesystem hierarchy standard
+executable and linkable format
+central process unit
+information science
+e transaction
+computer circuit
+enterprise architecture
+quiche eater
