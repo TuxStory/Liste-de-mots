@@ -513,3 +513,180 @@ e transaction
 computer circuit
 enterprise architecture
 quiche eater
+Printers 
+Scanners 
+Gigabytes 
+Kilobytes
+Spyware
+Backup 
+Malware 
+CD-Rom 
+Megabyte 
+Floppy Disk 
+Personal Computer (PC) 
+Flash Drive 
+Folder 
+Boot 
+Cable 
+Upload 
+Internet 
+Service 
+Provider 
+Audio 
+Computer
+Graphics 
+Buttons 
+Software 
+Terminal 
+Artificial Intelligence 
+Components 
+Programming 
+Programming Language 
+USB Port 
+ADSL 
+Viruses 
+Malicious Software 
+Mechanical Device 
+Storage
+Monitor
+Internet (World Wide Web)
+CPU (Central Processing Unit) 
+Ram 
+Bug 
+Virus 
+Bytes 
+Mouse 
+Motherboard 
+Hard Disk 
+Web Browser 
+Hardware
+Cache
+E-mail (Electronic Mail) 
+Electronic Device 
+Bluetooth 
+Computer System 
+Computer Networks 
+Machine Language 
+Storage Device 
+Output Devices 
+Input Devices 
+Keyboard
+Mouse
+Monitor
+CPU
+GPU
+RAM
+Hard Drive
+Motherboard
+Graphics Card
+Power Supply
+Operating System
+Software
+Hardware
+Peripheral
+USB
+Ethernet
+Wi-Fi
+Bluetooth
+Firewall
+Antivirus
+Malware
+Virus
+Data
+File
+Folder
+Browser
+Internet
+Website
+Search Engine
+Email
+Spreadsheet
+Word Processor
+Presentation
+Database
+Cloud
+Backup
+Download
+Upload
+Memory
+Cache
+Multitasking
+Algorithm
+Code
+Programming
+Developer
+Debugging
+Compiler
+Interpreter
+Software Development
+Web Development
+App
+User Interface
+User Experience
+Gaming
+Virtual Reality
+Augmented Reality
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Robotics
+Internet of Things (IoT)
+Cybersecurity
+Encryption
+Authentication
+Biometrics
+Network
+LAN (Local Area Network)
+WAN (Wide Area Network)
+Router
+Modem
+Server
+Client
+Cloud Computing
+Data Center
+Web Hosting
+Domain Name
+IP Address
+HTML
+CSS
+JavaScript
+Python
+Java
+C++
+Ruby
+SQL
+Linux
+Windows
+macOS
+Android
+iOS
+Microsoft Office
+Adobe Creative Suite
+Gaming Console
+Virtual Machine
+Data Analysis
+Cyber Attack
+Hacking
+Software Update
+Firmware
+Troubleshooting
+Pixel
+Resolution
+Mousepad
+Joystick
+Sound Card
+Webcam
+Microphone
+Biometric Scanner
+Firewall
+Data Encryption
+Cloud Storage
+API (Application Programming Interface)
+Debugger
+Version Control
+Server Rack
+Command Line Interface (CLI)
+VPN (Virtual Private Network)
+Spam Filter
+Data Backup
+Data Recovery
